@@ -8,4 +8,4 @@ We'll need to discuss on the messenger group about "who will do what", please co
 # Billing procedure
 The more you commmit (but here we talk about useful commits) the more you get, and hope money won't change us (because wise people say : ** the best thing money can do is to seperate friends ** ).
 # بالتوفيق
-وفّقنا اللّه إن شاء اللّه
+إن شاء اللّه
