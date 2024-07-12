@@ -14,3 +14,19 @@ h3 {
     text-align : left;
     color: rgb(14, 61, 249);
 }
+
+#parti-tab {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 500px;
+    background: rgb(241, 205, 173);
+}
+
+#parti-tab th{
+    width: 33%;
+    border: 3px solid blueviolet;
+}
+
+#parti-tab tr td {
+    border : 3px solid rgb(0, 255, 68);
+}
