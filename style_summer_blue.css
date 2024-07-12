@@ -30,3 +30,9 @@ h3 {
 #parti-tab tr td {
     border : 3px solid rgb(0, 255, 68);
 }
+
+tr:nth-child(even) td:nth-child(even), tr:nth-child(odd) td:nth-child(odd) {
+    font: italic;
+    color : white;
+    background: #000;
+}
