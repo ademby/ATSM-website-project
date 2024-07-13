@@ -1,3 +1,4 @@
+
 #type1 {
     text-align : center;
     color: sandybrown;
@@ -35,4 +36,23 @@ tr:nth-child(even) td:nth-child(even), tr:nth-child(odd) td:nth-child(odd) {
     font: italic;
     color : white;
     background: #000;
+}
+
+a {
+    color: aquamarine;
+}
+
+a:hover {
+    color: rgb(3, 149, 212);
+}
+
+p {
+    text-align: center; color: brown;
+}
+
+*:hover {
+    color : rgb(255, 0, 0);
+}
+div, td, th {
+    color : black;
 }
